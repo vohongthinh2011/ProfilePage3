@@ -12,7 +12,7 @@ layout: default
 
 <span style="color:#494e52">Short Bio </span>
 ======
-<p style="font-size:50px; color: #494e52"> Dr. Paul Rad received his B.S. degree in computer engineering from the Sharif University of Technology, in 1994, the master’s degree in artificial intelligence from the Tehran Polytechnic, and the master’s degree in computer science, the Ph.D. degree in electrical and computer engineering from The University of Texas at San Antonio, San Antonio, Texas, USA. He is currently the Founder and the Director of the Secure AI and Autonomy Laboratory, Co-founder and Assistant Director of Open Cloud Institute, and an Associate Professor with the Departments of Information Systems and Cyber Security and Electrical and Computer Engineering (by courtesy) at UTSA.</p>
+<p style="font-size:12px; color: #494e52"> Dr. Paul Rad received his B.S. degree in computer engineering from the Sharif University of Technology, in 1994, the master’s degree in artificial intelligence from the Tehran Polytechnic, and the master’s degree in computer science, the Ph.D. degree in electrical and computer engineering from The University of Texas at San Antonio, San Antonio, Texas, USA. He is currently the Founder and the Director of the Secure AI and Autonomy Laboratory, Co-founder and Assistant Director of Open Cloud Institute, and an Associate Professor with the Departments of Information Systems and Cyber Security and Electrical and Computer Engineering (by courtesy) at UTSA.</p>
 
 Research Interest
 ======
